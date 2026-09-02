@@ -1,0 +1,58 @@
+about:
+  description: Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
+  license: Apache-2.0
+  homepage: https://llamafactory.readthedocs.io
+  head: d6bb97d
+  archived: false
+  latestVersion: v0.9.5
+  collectedAt: 2026-09-02T03:08:44Z
+timeline:
+  created: 2023-05-28
+  lastCommit: 2026-08-31
+  lastRelease: 2026-05-30
+popularity:
+  star: 74511
+  watcher: 347
+  fork: 9127
+  release: 36
+  contributor: 293
+  pullRequest: 497
+  issue: 8033
+language:
+  Python: 2315404
+  Dockerfile: 5558
+  Makefile: 842
+totalLine: 2321804
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 14
+    openPR: 50
+    closedIssue: 3
+    openIssue: 10
+    commit: 14
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 54
+    openPR: 88
+    closedIssue: 13
+    openIssue: 38
+    commit: 56
+  last180d:
+    since: 2026-03-06
+    release: 1
+    mergedPR: 124
+    openPR: 131
+    closedIssue: 70
+    openIssue: 106
+    commit: 124
+  last360d:
+    since: 2025-09-07
+    release: 2
+    mergedPR: 323
+    openPR: 143
+    closedIssue: 256
+    openIssue: 396
+    commit: 326
