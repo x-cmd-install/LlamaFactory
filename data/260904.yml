@@ -7,7 +7,7 @@ about:
   head: dced5f8
   archived: false
   latestVersion: v0.9.5
-  collectedAt: 2026-09-04T19:21:16Z
+  collectedAt: 2026-09-04T21:11:43Z
 timeline:
   created: 2023-05-28
   lastCommit: 2026-09-04
@@ -46,7 +46,7 @@ recent:
     since: 2026-06-06
     release: 0
     mergedPR: 55
-    openPR: 86
+    openPR: 85
     closedIssue: 14
     openIssue: 37
     commit: 58
@@ -54,7 +54,7 @@ recent:
     since: 2026-03-08
     release: 1
     mergedPR: 124
-    openPR: 131
+    openPR: 130
     closedIssue: 69
     openIssue: 104
     commit: 126
@@ -62,7 +62,7 @@ recent:
     since: 2025-09-09
     release: 2
     mergedPR: 325
-    openPR: 143
+    openPR: 142
     closedIssue: 253
     openIssue: 384
     commit: 328
@@ -70,17 +70,100 @@ recent:
     since: 2024-09-14
     release: 5
     mergedPR: 832
-    openPR: 143
+    openPR: 142
     closedIssue: 2323
     openIssue: 940
     commit: 1098
 total:
   release: 36
   mergedPR: 1029
-  openPR: 143
+  openPR: 142
   closedIssue: 7036
   openIssue: 997
   commit: 3099
 ---
+path: /home/runner/.x-repo/github.com/hiyouga/LlamaFactory
+collectedAt: 2026-09-04T21:11:44Z
+loc:
+  Python:
+    code: 48968
+    comments: 4927
+    blanks: 9320
+    files: 311
+  Json:
+    code: 47592
+    comments: 0
+    blanks: 0
+    files: 20
+  Yaml:
+    code: 2453
+    comments: 638
+    blanks: 405
+    files: 101
+  Svg:
+    code: 1416
+    comments: 2
+    blanks: 2
+    files: 6
+  Toml:
+    code: 133
+    comments: 6
+    blanks: 10
+    files: 1
+  Dockerfile:
+    code: 104
+    comments: 47
+    blanks: 41
+    files: 3
+  ReStructuredText:
+    code: 100
+    comments: 0
+    blanks: 28
+    files: 2
+  JavaScript:
+    code: 78
+    comments: 0
+    blanks: 15
+    files: 1
+  Css:
+    code: 44
+    comments: 0
+    blanks: 5
+    files: 1
+  Sh:
+    code: 41
+    comments: 5
+    blanks: 6
+    files: 4
+  Makefile:
+    code: 31
+    comments: 7
+    blanks: 13
+    files: 2
+  Batch:
+    code: 26
+    comments: 1
+    blanks: 8
+    files: 1
+  Autoconf:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2909
+    blanks: 1461
+    files: 66
+  Text:
+    code: 0
+    comments: 84
+    blanks: 0
+    files: 28
+total:
+  code: 102851
+  comments: 8729
+  blanks: 11467
+  files: 548
 ---
 
