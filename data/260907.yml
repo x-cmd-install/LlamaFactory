@@ -5,13 +5,13 @@ about:
   head: dced5f8
   archived: false
   latestVersion: "v0.9.5"
-  collectedAt: 2026-09-07T04:40:42Z
+  collectedAt: 2026-09-07T19:48:44Z
 timeline:
   created: 2023-05-28
   lastCommit: 2026-09-04
   lastRelease: 2026-05-30
 popularity:
-  star: 74609
+  star: 74623
   watcher: 347
   fork: 9143
   release: 36
@@ -81,7 +81,7 @@ total:
   commit: 3099
 ---
 path: /home/runner/.x-repo/github.com/hiyouga/LlamaFactory
-collectedAt: 2026-09-07T04:40:44Z
+collectedAt: 2026-09-07T19:48:46Z
 loc:
   Python:
     code: 48968
@@ -167,7 +167,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:40:45+00:00
+  collectedAt: 2026-09-07T19:48:47+00:00
   platform:
     darwin/arm64:
       name:  null
