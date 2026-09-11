@@ -12,6 +12,18 @@ Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 x install LlamaFactory
 ```
 
+## Code insight
+
+Total: **101,615** lines of code across **445** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 49,562 | 4,989 | 9,452 | 315 |
+| Json | 47,592 | 0 | 0 | 20 |
+| Yaml | 2,487 | 646 | 415 | 103 |
+| Svg | 1,416 | 2 | 2 | 6 |
+| Toml | 133 | 6 | 10 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/hiyouga/LlamaFactory>
@@ -25,7 +37,7 @@ x install LlamaFactory
 
 ## Popularity
 
-- **Stars**: 74,694 · **Forks**: 9,147 · **Open issues**: 8,035 · **Contributors**: 294
+- **Stars**: 74,696 · **Forks**: 9,147 · **Open issues**: 8,035 · **Contributors**: 294
 
 ## Totals (cumulative)
 
@@ -35,21 +47,12 @@ x install LlamaFactory
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 14 | 54 | 3 | 9 | 14 |
-| 90d | 2026-06-12 | 0 | 55 | 91 | 11 | 36 | 59 |
-| 360d | 2025-09-15 | 2 | 323 | 151 | 247 | 371 | 324 |
-
-## Code size
-
-Total: **101,615** lines of code across **445** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 49,562 | 4,989 | 9,452 | 315 |
-| Json | 47,592 | 0 | 0 | 20 |
-| Yaml | 2,487 | 646 | 415 | 103 |
-| Svg | 1,416 | 2 | 2 | 6 |
-| Toml | 133 | 6 | 10 | 1 |
+| 30d | 2026-08-12 | 0 | 12 | 48 | 3 | 9 | 14 |
+| last60d | 2026-07-13 | 0 | 29 | 73 | 5 | 22 | 34 |
+| 90d | 2026-06-13 | 0 | 54 | 90 | 11 | 36 | 59 |
+| last180d | 2026-03-15 | 1 | 117 | 139 | 63 | 106 | 124 |
+| 360d | 2025-09-16 | 2 | 322 | 151 | 244 | 370 | 324 |
+| last720d | 2024-09-21 | 5 | 830 | 151 | 2275 | 933 | 1086 |
 
 ## Improve this data
 
@@ -60,4 +63,4 @@ Install metadata for LlamaFactory lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:40:03Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:16:10Z._
