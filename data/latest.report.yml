@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.5"
   latestRelease: "v0.9.5"
   latestPrerelease: "v0.0.9"
-  collectedAt: 2026-09-11T04:39:56Z
+  collectedAt: 2026-09-11T20:29:04Z
 timeline:
   created: 2023-05-28
   lastCommit: 2026-09-09
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-05-30
   lastPrerelease: 2023-07-15
 popularity:
-  star: 74699
+  star: 74713
   watcher: 347
   fork: 9147
   release: 36
   contributor: 294
-  pullRequest: 1539
+  pullRequest: 1540
   issue: 8035
 language:
   Python: 2360738
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 12
-    openPR: 48
+    openPR: 49
     closedIssue: 3
     openIssue: 9
     commit: 14
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-13
     release: 0
     mergedPR: 29
-    openPR: 73
+    openPR: 74
     closedIssue: 5
     openIssue: 22
     commit: 34
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-13
     release: 0
     mergedPR: 54
-    openPR: 90
+    openPR: 91
     closedIssue: 11
     openIssue: 36
     commit: 59
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-15
     release: 1
     mergedPR: 117
-    openPR: 139
+    openPR: 140
     closedIssue: 63
     openIssue: 106
     commit: 124
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-16
     release: 2
     mergedPR: 322
-    openPR: 151
+    openPR: 152
     closedIssue: 244
     openIssue: 370
     commit: 324
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-21
     release: 5
     mergedPR: 830
-    openPR: 151
+    openPR: 152
     closedIssue: 2275
     openIssue: 933
     commit: 1086
 total:
   release: 36
   mergedPR: 1032
-  openPR: 151
+  openPR: 152
   closedIssue: 7037
   openIssue: 998
   commit: 3102
 ---
 path: /home/runner/.x-repo/github.com/hiyouga/LlamaFactory
-collectedAt: 2026-09-11T04:39:58Z
+collectedAt: 2026-09-11T20:29:06Z
 loc:
   Python:
     code: 49562
