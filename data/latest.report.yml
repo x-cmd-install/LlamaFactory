@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.5"
   latestRelease: "v0.9.5"
   latestPrerelease: "v0.0.9"
-  collectedAt: 2026-09-11T00:16:04Z
+  collectedAt: 2026-09-11T04:39:56Z
 timeline:
   created: 2023-05-28
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-05-30
   lastPrerelease: 2023-07-15
 popularity:
-  star: 74696
+  star: 74699
   watcher: 347
   fork: 9147
   release: 36
@@ -85,7 +85,7 @@ total:
   commit: 3102
 ---
 path: /home/runner/.x-repo/github.com/hiyouga/LlamaFactory
-collectedAt: 2026-09-11T00:16:06Z
+collectedAt: 2026-09-11T04:39:58Z
 loc:
   Python:
     code: 49562
