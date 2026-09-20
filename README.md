@@ -4,7 +4,7 @@
 
 Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 
-![LlamaFactory](https://repo.x-cmd.io/LlamaFactory.svg)
+[![x-cmd/install — LlamaFactory Code Quality Monitoring Repo Card](https://repo.x-cmd.io/LlamaFactory.svg)](https://x-cmd.com/install/LlamaFactory)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **101,612** lines of code across **445** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 74,845 · **Forks**: 9,169 · **Open issues**: 8,037 · **Contributors**: 294
+- **Stars**: 74,897 · **Forks**: 9,175 · **Open issues**: 8,037 · **Contributors**: 294
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1033 · **Open PRs**: 156 · **Closed issues**: 7037 · **Open issues**: 1000 · **Commits**: 3103
+- **Releases**: 36 · **Merged PRs**: 1033 · **Open PRs**: 155 · **Closed issues**: 7037 · **Open issues**: 1000 · **Commits**: 3103
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 10 | 48 | 2 | 8 | 13 |
-| last60d | 2026-07-20 | 0 | 28 | 71 | 5 | 22 | 32 |
-| 90d | 2026-06-20 | 0 | 52 | 87 | 10 | 35 | 56 |
-| last180d | 2026-03-22 | 1 | 112 | 142 | 60 | 104 | 118 |
-| 360d | 2025-09-23 | 2 | 319 | 156 | 231 | 350 | 322 |
-| last720d | 2024-09-28 | 5 | 823 | 156 | 2219 | 931 | 1066 |
+| 30d | 2026-08-21 | 0 | 10 | 35 | 2 | 7 | 13 |
+| last60d | 2026-07-22 | 0 | 27 | 69 | 5 | 19 | 32 |
+| 90d | 2026-06-22 | 0 | 50 | 85 | 10 | 34 | 56 |
+| last180d | 2026-03-24 | 1 | 110 | 141 | 59 | 101 | 118 |
+| 360d | 2025-09-25 | 2 | 318 | 155 | 230 | 342 | 322 |
+| last720d | 2024-09-30 | 5 | 822 | 155 | 2212 | 929 | 1033 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for LlamaFactory lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:45:18Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:01:43Z._
