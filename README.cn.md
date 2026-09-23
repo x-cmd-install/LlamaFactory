@@ -4,7 +4,7 @@
 
 Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 
-[![x-cmd/install — LlamaFactory Code Quality Monitoring Repo Card](https://repo.x-cmd.io/LlamaFactory.svg?lang=zh)](https://x-cmd.com/install/LlamaFactory)
+[![x-cmd/install — LlamaFactory Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/LlamaFactory.svg?lang=zh)](https://x-cmd.com/install/LlamaFactory)
 
 ## 安装
 
@@ -37,22 +37,22 @@ x install LlamaFactory
 
 ## 流行度
 
-- **Star**: 74,961 · **Fork**: 9,179 · **开放 issue**: 8,037 · **贡献者**: 294
+- **Star**: 74,986 · **Fork**: 9,179 · **开放 issue**: 8,037 · **贡献者**: 294
 
 ## 累计统计
 
-- **发布数**: 36 · **已合并 PR**: 1033 · **开放 PR**: 155 · **已关闭 issue**: 7037 · **开放 issue**: 1000 · **提交数**: 3103
+- **发布数**: 36 · **已合并 PR**: 1033 · **开放 PR**: 155 · **已关闭 issue**: 7039 · **开放 issue**: 998 · **提交数**: 3103
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 10 | 35 | 2 | 7 | 10 |
-| last60d | 2026-07-24 | 0 | 23 | 68 | 4 | 16 | 26 |
-| 90d | 2026-06-24 | 0 | 46 | 83 | 9 | 34 | 48 |
-| last180d | 2026-03-26 | 1 | 109 | 140 | 56 | 98 | 111 |
-| 360d | 2025-09-27 | 2 | 317 | 155 | 230 | 339 | 314 |
-| last720d | 2024-10-02 | 5 | 822 | 155 | 2205 | 929 | 1015 |
+| 30d | 2026-08-24 | 0 | 9 | 34 | 3 | 4 | 10 |
+| last60d | 2026-07-25 | 0 | 23 | 67 | 6 | 14 | 26 |
+| 90d | 2026-06-25 | 0 | 46 | 83 | 11 | 31 | 48 |
+| last180d | 2026-03-27 | 1 | 109 | 140 | 57 | 96 | 111 |
+| 360d | 2025-09-28 | 2 | 317 | 155 | 231 | 333 | 314 |
+| last720d | 2024-10-03 | 5 | 822 | 155 | 2204 | 925 | 1015 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ LlamaFactory 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:57:45Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:56:22Z._
