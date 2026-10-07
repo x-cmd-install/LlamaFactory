@@ -37,22 +37,22 @@ Total: **102,033** lines of code across **449** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 75,324 · **Forks**: 9,227 · **Open issues**: 8,040 · **Contributors**: 295
+- **Stars**: 75,339 · **Forks**: 9,233 · **Open issues**: 8,040 · **Contributors**: 295
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1037 · **Open PRs**: 170 · **Closed issues**: 7039 · **Open issues**: 1001 · **Commits**: 3107
+- **Releases**: 36 · **Merged PRs**: 1037 · **Open PRs**: 171 · **Closed issues**: 7039 · **Open issues**: 1001 · **Commits**: 3107
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 5 | 34 | 2 | 5 | 5 |
-| last60d | 2026-08-07 | 0 | 20 | 79 | 6 | 13 | 22 |
-| 90d | 2026-07-08 | 0 | 38 | 97 | 9 | 29 | 40 |
-| last180d | 2026-04-09 | 1 | 107 | 151 | 49 | 86 | 109 |
-| 360d | 2025-10-11 | 2 | 304 | 170 | 218 | 326 | 298 |
-| last720d | 2024-10-16 | 5 | 823 | 170 | 2125 | 916 | 983 |
+| 30d | 2026-09-07 | 0 | 5 | 35 | 2 | 5 | 5 |
+| last60d | 2026-08-08 | 0 | 19 | 80 | 5 | 13 | 22 |
+| 90d | 2026-07-09 | 0 | 38 | 98 | 9 | 28 | 40 |
+| last180d | 2026-04-10 | 1 | 106 | 151 | 44 | 85 | 109 |
+| 360d | 2025-10-12 | 2 | 303 | 171 | 218 | 324 | 298 |
+| last720d | 2024-10-17 | 5 | 823 | 171 | 2115 | 916 | 982 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for LlamaFactory lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:30:36Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:56:55Z._
