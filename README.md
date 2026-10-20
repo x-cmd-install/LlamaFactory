@@ -14,11 +14,11 @@ x install LlamaFactory
 
 ## Code insight
 
-Total: **102,030** lines of code across **449** files in the top 5 languages.
+Total: **102,784** lines of code across **452** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 49,883 | 5,001 | 9,476 | 315 |
+| Python | 50,637 | 5,045 | 9,605 | 318 |
 | Json | 47,592 | 0 | 0 | 20 |
 | Yaml | 2,545 | 668 | 418 | 104 |
 | Svg | 1,416 | 2 | 2 | 6 |
@@ -33,26 +33,26 @@ Total: **102,030** lines of code across **449** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.5` (2026-05-30)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-19
 
 ## Popularity
 
-- **Stars**: 75,574 · **Forks**: 9,262 · **Open issues**: 8,047 · **Contributors**: 295
+- **Stars**: 75,593 · **Forks**: 9,275 · **Open issues**: 8,048 · **Contributors**: 295
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1038 · **Open PRs**: 185 · **Closed issues**: 7040 · **Open issues**: 1007 · **Commits**: 3108
+- **Releases**: 36 · **Merged PRs**: 1039 · **Open PRs**: 188 · **Closed issues**: 7040 · **Open issues**: 1008 · **Commits**: 3109
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 2 | 36 | 0 | 10 | 5 |
-| last60d | 2026-08-20 | 0 | 14 | 82 | 4 | 16 | 17 |
-| 90d | 2026-07-21 | 0 | 32 | 102 | 7 | 29 | 32 |
-| last180d | 2026-04-22 | 1 | 101 | 159 | 33 | 79 | 98 |
-| 360d | 2025-10-24 | 2 | 290 | 184 | 193 | 292 | 288 |
-| last720d | 2024-10-29 | 5 | 820 | 185 | 2048 | 890 | 966 |
+| 30d | 2026-09-20 | 0 | 3 | 39 | 0 | 11 | 6 |
+| last60d | 2026-08-21 | 0 | 15 | 73 | 4 | 16 | 18 |
+| 90d | 2026-07-22 | 0 | 33 | 104 | 7 | 28 | 33 |
+| last180d | 2026-04-23 | 1 | 101 | 159 | 33 | 79 | 99 |
+| 360d | 2025-10-25 | 2 | 291 | 186 | 192 | 292 | 289 |
+| last720d | 2024-10-30 | 5 | 818 | 188 | 2035 | 886 | 947 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for LlamaFactory lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:48:49Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:48:46Z._
