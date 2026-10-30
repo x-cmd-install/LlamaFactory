@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.9.5"
   latestRelease: "v0.9.5"
   latestPrerelease: "v0.0.9"
-  collectedAt: 2026-10-29T05:46:27Z
+  collectedAt: 2026-10-30T05:47:53Z
 timeline:
   created: 2023-05-28
   lastCommit: 2026-10-29
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-05-30
   lastPrerelease: 2023-07-15
 popularity:
-  star: 75765
-  watcher: 344
-  fork: 9307
+  star: 75789
+  watcher: 343
+  fork: 9311
   release: 36
   contributor: 296
-  pullRequest: 1606
+  pullRequest: 1608
   issue: 8051
 language:
   Python: 2433943
@@ -29,63 +29,63 @@ language:
 totalBytes: 2444417
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 2
-    openPR: 44
+    openPR: 45
     closedIssue: 0
-    openIssue: 13
+    openIssue: 11
     commit: 4
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
-    mergedPR: 11
-    openPR: 70
+    mergedPR: 9
+    openPR: 71
     closedIssue: 2
     openIssue: 17
     commit: 14
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 27
-    openPR: 110
+    openPR: 112
     closedIssue: 6
-    openIssue: 27
+    openIssue: 26
     commit: 31
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 1
     mergedPR: 91
-    openPR: 164
+    openPR: 166
     closedIssue: 25
     openIssue: 79
     commit: 94
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 2
-    mergedPR: 287
-    openPR: 192
-    closedIssue: 175
-    openIssue: 280
+    mergedPR: 283
+    openPR: 194
+    closedIssue: 173
+    openIssue: 277
     commit: 281
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 5
-    mergedPR: 806
-    openPR: 195
-    closedIssue: 1989
-    openIssue: 871
-    commit: 911
+    mergedPR: 805
+    openPR: 197
+    closedIssue: 1983
+    openIssue: 870
+    commit: 907
 total:
   release: 36
   mergedPR: 1041
-  openPR: 195
+  openPR: 197
   closedIssue: 7040
   openIssue: 1011
   commit: 3111
 ---
 path: /home/runner/.x-repo/github.com/hiyouga/LlamaFactory
-collectedAt: 2026-10-29T05:46:33Z
+collectedAt: 2026-10-30T05:47:56Z
 loc:
   Python:
     code: 51035
