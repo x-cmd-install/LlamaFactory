@@ -33,26 +33,26 @@ Total: **103,309** lines of code across **455** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.5` (2026-05-30)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-11
 
 ## Popularity
 
-- **Stars**: 75,972 · **Forks**: 9,358 · **Open issues**: 8,053 · **Contributors**: 299
+- **Stars**: 75,991 · **Forks**: 9,363 · **Open issues**: 8,054 · **Contributors**: 299
 
 ## Totals (cumulative)
 
-- **Releases**: 36 · **Merged PRs**: 1050 · **Open PRs**: 208 · **Closed issues**: 7037 · **Open issues**: 1016 · **Commits**: 3120
+- **Releases**: 36 · **Merged PRs**: 1052 · **Open PRs**: 210 · **Closed issues**: 7037 · **Open issues**: 1017 · **Commits**: 3122
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 8 | 42 | 1 | 13 | 12 |
-| last60d | 2026-09-11 | 0 | 14 | 74 | 2 | 20 | 17 |
-| 90d | 2026-08-12 | 0 | 29 | 112 | 6 | 28 | 32 |
-| last180d | 2026-05-14 | 1 | 92 | 171 | 19 | 72 | 97 |
-| 360d | 2025-11-15 | 2 | 282 | 205 | 161 | 256 | 279 |
-| last720d | 2024-11-20 | 5 | 804 | 208 | 1899 | 859 | 898 |
+| 30d | 2026-10-12 | 0 | 10 | 43 | 1 | 13 | 14 |
+| last60d | 2026-09-12 | 0 | 16 | 76 | 2 | 21 | 19 |
+| 90d | 2026-08-13 | 0 | 29 | 113 | 6 | 29 | 34 |
+| last180d | 2026-05-15 | 1 | 93 | 172 | 19 | 71 | 99 |
+| 360d | 2025-11-16 | 2 | 284 | 207 | 160 | 257 | 281 |
+| last720d | 2024-11-21 | 5 | 805 | 210 | 1890 | 858 | 899 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for LlamaFactory lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:21:40Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:14:47Z._
