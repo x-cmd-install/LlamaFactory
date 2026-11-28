@@ -2,25 +2,25 @@ about:
   description: "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)"
   license: Apache-2.0
   homepage: https://llamafactory.readthedocs.io
-  head: aef9c06
+  head: 1dd33ba
   archived: false
   latestVersion: "v0.9.5"
   latestRelease: "v0.9.5"
   latestPrerelease: "v0.0.9"
-  collectedAt: 2026-11-27T08:46:07Z
+  collectedAt: 2026-11-28T08:07:16Z
 timeline:
   created: 2023-05-28
-  lastCommit: 2026-11-25
+  lastCommit: 2026-11-28
   lastVersion: 2026-05-30
   lastRelease: 2026-05-30
   lastPrerelease: 2023-07-15
 popularity:
-  star: 76303
+  star: 76314
   watcher: 340
   fork: 9425
   release: 36
   contributor: 309
-  pullRequest: 1704
+  pullRequest: 1709
   issue: 8064
 language:
   Python: 2517949
@@ -29,63 +29,63 @@ language:
 totalBytes: 2528547
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 23
-    openPR: 71
+    openPR: 74
     closedIssue: 3
     openIssue: 14
-    commit: 30
+    commit: 31
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
-    mergedPR: 31
-    openPR: 108
+    mergedPR: 32
+    openPR: 110
     closedIssue: 4
     openIssue: 26
-    commit: 34
+    commit: 35
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
-    mergedPR: 41
-    openPR: 131
+    mergedPR: 42
+    openPR: 133
     closedIssue: 6
     openIssue: 30
-    commit: 48
+    commit: 49
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 102
-    openPR: 200
+    openPR: 201
     closedIssue: 20
-    openIssue: 71
-    commit: 104
+    openIssue: 69
+    commit: 105
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 2
-    mergedPR: 289
-    openPR: 246
-    closedIssue: 148
-    openIssue: 244
-    commit: 290
-  last720d:
-    since: 2024-12-07
-    release: 4
-    mergedPR: 795
+    mergedPR: 290
     openPR: 249
-    closedIssue: 1777
-    openIssue: 851
-    commit: 853
+    closedIssue: 147
+    openIssue: 243
+    commit: 291
+  last720d:
+    since: 2024-12-08
+    release: 4
+    mergedPR: 796
+    openPR: 252
+    closedIssue: 1773
+    openIssue: 850
+    commit: 854
 total:
   release: 36
-  mergedPR: 1071
-  openPR: 249
+  mergedPR: 1072
+  openPR: 252
   closedIssue: 7040
   openIssue: 1024
-  commit: 3141
+  commit: 3142
 ---
 path: /home/runner/.x-repo/github.com/hiyouga/LlamaFactory
-collectedAt: 2026-11-27T08:46:10Z
+collectedAt: 2026-11-28T08:07:19Z
 loc:
   Python:
     code: 52517
